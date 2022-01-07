@@ -3,8 +3,6 @@
 I'm a Computer Science student at the University of Montreal. I like to work on side projects in my free time and I'm also the marketing coordinator of a nonprofit called [Kurius][kurius]. I'm currently interested in Data Structures & Algorithms and also AI in general!
 
 ### Connect with me
-
-[<img align="left" alt="website" width="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rayane Sahi | LinkedIn" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
