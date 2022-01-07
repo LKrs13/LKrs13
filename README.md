@@ -1,4 +1,4 @@
-<img align="right" src="https://i.gifer.com/H8DH.gif" width="200"/>
+<img align="right" src="https://i.gifer.com/SUV4.gif" width="200"/>
 
 ## Hi there, I'm [Rayane][website] 👋
 
@@ -21,6 +21,7 @@ I'm a Computer Science student at the University of Montreal. I like to work on 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="25" height="25" />
 <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" alt="flask" width="25" height="25" />
+<img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="bash" width="25" height="25" />
 </p>
 
 ---
