@@ -1,5 +1,5 @@
-## Hi there, I'm [Rayane] 👋 
-I'm a Computer Science student at the University of Montreal. I like to work on side projects in my free time and I'm also the marketing coordinator of a nonprofit called Kurius. I'm currently interested in Data Structures & Algorithms and AI at the moment! 
+## Hi there, I'm [Rayane][website] 👋 
+I'm a Computer Science student at the University of Montreal. I like to work on side projects in my free time and I'm also the marketing coordinator of a nonprofit called Kurius[kurius]. I'm currently interested in Data Structures & Algorithms and also AI in general! 
 
 
 ### Connect with me:
@@ -35,5 +35,6 @@ I'm a Computer Science student at the University of Montreal. I like to work on 
   </p>
 </details>
 
+[website] : https://github.com/LKrs13
 [kurius]: https://kurius.ca
 [linkedin]: https://www.linkedin.com/in/rayane-sahi-bb8b90214/
