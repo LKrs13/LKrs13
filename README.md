@@ -28,6 +28,7 @@ I'm a Computer Science student at the University of Montreal. I like to work on 
   <summary>GitHub Stats</summary>
   <p align="center">
     <img alt="Rayane's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LKrs13&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PersoSirEduard&layout=compact" alt="GitHub Stats" style="height: auto;" />
   </p>
 
 </details>
