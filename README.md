@@ -24,8 +24,6 @@ I'm a Computer Science student at the University of Montreal. I like to work on 
 
 ---
 
-### 📕 Latest Blog Posts
-
 <details>
   <summary>GitHub Stats</summary>
   <p align="center">
