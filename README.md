@@ -5,7 +5,7 @@ I'm a Computer Science student at the University of Montreal. I like to work on 
 ### Fun Facts
 - I have been playing soccer for 15+ years and I am a fanboy of Zidane
 - I enjoy editing video content for fun with After Effect
-- I spent way too much time watching anime 
+- I spend way too much time watching anime 
 
 ### Connect with me
 [<img align="left" alt="Rayane Sahi | LinkedIn" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
