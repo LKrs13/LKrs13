@@ -29,6 +29,6 @@ I'm a Computer Science student at the University of Montreal. I like to work on 
 
 ---
 
-[website]: https://github.com/LKrs13
+[website]: https://rayanesahi.dev
 [kurius]: https://kurius.ca
 [linkedin]: https://www.linkedin.com/in/rayane-sahi-bb8b90214/
