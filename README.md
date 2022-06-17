@@ -1,6 +1,6 @@
 ## Hi there, I'm [Rayane][website] 👋
 
-I'm a Computer Science student at the University of Montreal. I like to work on side projects in my free time and I'm also the marketing coordinator of a nonprofit called [Kurius][kurius]. I'm currently interested in DSA and AI!
+I'm a Software Developer @ CGI and CS student at the UMontreal. I like to work on side projects in my free time and I'm also the marketing coordinator of a nonprofit called [Kurius][kurius]. I'm currently interested in DSA and AI!
 
 ### Fun Facts
 - I have been playing soccer for 15+ years and I am a fanboy of Zidane
