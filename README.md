@@ -1,6 +1,6 @@
 ## Hi there, I'm [Rayane][website] 👋
 
-I'm a Software Developer @ CGI and CS student at UMontreal. I like to work on useful projects and I'm also the marketing coordinator of a nonprofit called [Kurius][kurius]. I'm currently learning React and working on DSA.
+I'm a CS student at UMontreal with experience in data science and software. I like to work on useful projects and I'm also the marketing coordinator of a nonprofit called [Kurius][kurius]. I'm currently learning React and working on DSA. Feel free to reach out to me if you want to discuss or share an opportunity!
 
 ### Fun Facts
 - I have been playing soccer for 15+ years and I am a fanboy of Zidane
